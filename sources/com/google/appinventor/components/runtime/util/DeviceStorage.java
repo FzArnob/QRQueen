@@ -1,0 +1,13 @@
+package com.google.appinventor.components.runtime.util;
+
+public enum DeviceStorage {
+    EXTERNAL_STORAGE_TOTAL,
+    EXTERNAL_STORAGE_AVAILABLE,
+    EXTERNAL_STORAGE_USED,
+    INTERNAL_STORAGE_TOTAL,
+    INTERNAL_STORAGE_AVAILABLE,
+    INTERNAL_STORAGE_USED,
+    MEMORY_TOTAL,
+    MEMORY_AVAILABLE,
+    MEMORY_USED
+}
