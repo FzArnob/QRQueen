@@ -1,1 +1,35 @@
 # QRQueen
+- **Project Overview**:
+    - A versatile QR code solution for customized code generation, secure storage, and sharing.
+- **Key Features**:
+    - **Scan Recording**: Automated storage of scanned results in the scan history.
+    - **Local Storage**: Saving scanned QR images directly to device storage.
+    - **Server Security**: Ensuring QR code safety and security via server connectivity.
+    - **Code Sharing**: Easy sharing of QR codes with others.
+    - **Encryption**: Provision of encrypted QR codes for heightened security.
+    - **Internet Connection**: Requirement for optimal app functionality.
+    - **Custom Color Design**: QR code customization with various colors.
+    - **Barcode Conversion**: Seamless conversion of barcodes to QR codes.
+    - **Ad-Free Experience**: App usage without intrusive advertisements.
+    - **Scan History**: Comprehensive history of all scanned items.
+- **Contributions and Technical Learnings**:
+    - **User Experience Enhancement**:
+        - Implemented a robust scan recording feature for automated result storage.
+        - Architected and integrated database management for scan history.
+    - **Local Storage Implementation**:
+        - Developed functionalities for direct scanned image storage on devices.
+        - Optimized app performance while managing local data storage efficiently.
+    - **Security Aspects**:
+        - Collaborated on server connectivity for safekeeping of QR codes.
+        - Implemented encryption techniques for data security within codes.
+    - **User Interface Refinement**:
+        - Refined UI/UX for seamless code sharing and customization.
+        - Integrated custom color options for QR code generation, enhancing visual appeal and customization.
+- **Technical Proficiency Gained**:
+    - Mobile app development expertise.
+    - Database management skills.
+    - Security protocol implementation (server-side and encryption).
+    - User-centric design and user experience enhancement.
+- **Team Collaboration**:
+    - Fostering collaboration skills within a dynamic team environment.
+    - Importance of user feedback in refining product features for optimal user experience.
